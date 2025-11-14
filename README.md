@@ -1,5 +1,5 @@
 Build contains both Debug & Release versions of a basic reference scene and a imported obj file.
-Source contains actual project files, made with CMake
+Source contains actual project files, built with CMake
 
 Camera Controls based of Unreal Engine controls:
 WASD : moves horizontally
